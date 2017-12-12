@@ -1,0 +1,14 @@
+[
+{
+  "modid": "superteammod",
+  "name": "SUPER Team Mod",
+  "description": "It's very special mod for SUPER team.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "authorList": ["Adam 'Savander' Jaworski"],
+  "credits": "Savander and The Forge and FML guys.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
